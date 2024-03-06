@@ -4,9 +4,9 @@
 💭 Currently Exploring Machine Learning and Full-Stack Web Development <br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=jameswong2003&theme=transparent&show_icons=true&disable_animations=true&include_all_commits=true)<br/>
+![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=jameswong2003&theme=transparent&show_icons=true&disable_animations=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameswong2003)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameswong2003&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
