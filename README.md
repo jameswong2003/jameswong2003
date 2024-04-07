@@ -1,6 +1,6 @@
 # 👋 Hi, I'm James!
 👩🏻‍💻 Software Engineer exploring ways to bring positive value and programs in tech!<br/>
-👩🏻‍🎓 Studied [Computer Science] at the Boston University<br/>
+👩🏻‍🎓 Studying [Computer Science] at the Boston University<br/>
 💭 Currently Exploring Machine Learning and Full-Stack Web Development <br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
